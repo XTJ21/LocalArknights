@@ -42,6 +42,4 @@ GM工具
 
 # 反馈
 
-Q群757739239
-
-感谢Kengxxiao大佬提供的数据
+TG群 https://t.me/LocalArknights
